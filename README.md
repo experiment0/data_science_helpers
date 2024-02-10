@@ -14,3 +14,6 @@
 
 ### Модели
 - [Линейная регрессия](./articles/linear_regression.ipynb)
+
+### Метрики
+- [Метрики регрессии](./articles/regression_metrics.ipynb)
