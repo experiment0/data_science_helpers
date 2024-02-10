@@ -4,7 +4,7 @@
 Периодически пополняется и реструктурируется.
 
 > Для корректной работы ссылок оглавления и навигации лучше смотреть репо здесь
-> https://nbviewer.org/github/experiment0/data_science_helpers/blob/master/README.MD
+> https://nbviewer.org/github/experiment0/data_science_helpers/blob/master/index.ipynb?flush_cache=true
 
 ## Оглавление
 
