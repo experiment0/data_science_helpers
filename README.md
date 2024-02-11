@@ -18,6 +18,7 @@
 ### Модели
 - [Смещение и разброс](./articles/bias_and_variance.ipynb)
 - [Линейная регрессия](./articles/linear_regression.ipynb)
+- [Полиномиальная регрессия](./articles/polynomial_regression.ipynb)
 
 ### Метрики
 - [Метрики регрессии](./articles/regression_metrics.ipynb)
