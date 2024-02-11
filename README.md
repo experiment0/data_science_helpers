@@ -12,6 +12,9 @@
 - [Построение столбчатой диаграммы крреляции признаков с целевым](./articles/corr_bar_with_target.ipynb)
 - [Построение графиков](./articles/building_graphs.ipynb)
 
+### Pandas
+- [Операции с DataFrame](./articles/create_dataframe.ipynb)
+
 ### Модели
 - [Линейная регрессия](./articles/linear_regression.ipynb)
 
