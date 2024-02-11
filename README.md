@@ -16,6 +16,7 @@
 - [Операции с DataFrame](./articles/create_dataframe.ipynb)
 
 ### Модели
+- [Смещение и разброс](./articles/bias_and_variance.ipynb)
 - [Линейная регрессия](./articles/linear_regression.ipynb)
 
 ### Метрики
