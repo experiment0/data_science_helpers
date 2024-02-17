@@ -8,13 +8,16 @@
 
 ## Оглавление
 
+- [Общие понятия ML](./articles/general_concepts.ipynb)
+
+### Pandas
 - [Примеры получения готовых табличных данных](./articles/data_examples.ipynb)
+- [Операции с DataFrame](./articles/create_dataframe.ipynb)
+
+### Графики
 - [Построение графиков](./articles/building_graphs.ipynb)
 - [Построение столбчатой диаграммы крреляции признаков с целевым](./articles/corr_bar_with_target.ipynb)
 - [Поиск оптимальных внешних параметров модели по графику](./articles/hyperparameter_plot.ipynb)
-
-### Pandas
-- [Операции с DataFrame](./articles/create_dataframe.ipynb)
 
 ### Модели
 - [Смещение и разброс](./articles/bias_and_variance.ipynb)
