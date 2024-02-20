@@ -29,3 +29,4 @@
 
 ### Метрики
 - [Метрики регрессии](./articles/regression_metrics.ipynb)
+- [Метрики классификации](./articles/classification_metrics.ipynb)
