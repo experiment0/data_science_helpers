@@ -27,6 +27,7 @@
     - [Полиномиальная регрессия и регуляризация](./articles/polynomial_regression.ipynb)
 - **Классификация**
     - [Логистическая регрессия](./articles/logistic_regression.ipynb)
+    - [Деревья решений](./articles/decision_trees.ipynb)
 
 ### Метрики
 - [Метрики регрессии](./articles/regression_metrics.ipynb)
