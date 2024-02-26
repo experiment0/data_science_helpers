@@ -28,6 +28,8 @@
 - **Классификация**
     - [Логистическая регрессия](./articles/logistic_regression.ipynb)
     - [Деревья решений](./articles/decision_trees.ipynb)
+    - [Случайный лес](./articles/random_forest.ipynb)
+- [Ансамбли моделей](./articles/model_ensembles.ipynb)
 
 ### Метрики
 - [Метрики регрессии](./articles/regression_metrics.ipynb)
