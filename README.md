@@ -30,6 +30,8 @@
     - [Деревья решений](./articles/decision_trees.ipynb)
     - [Случайный лес](./articles/random_forest.ipynb)
 - [Ансамбли моделей](./articles/model_ensembles.ipynb)
+- **Кластеризация**
+    - [Алгоритм k-means](./articles/k_means.ipynb)
 
 ### Метрики
 - [Метрики регрессии](./articles/regression_metrics.ipynb)
