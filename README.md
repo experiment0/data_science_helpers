@@ -36,3 +36,7 @@
 ### Метрики
 - [Метрики регрессии](./articles/regression_metrics.ipynb)
 - [Метрики классификации](./articles/classification_metrics.ipynb)
+- [Метрики кластеризации](./articles/clustering_metrics.ipynb)
+
+## Полезные ссылки
+- [https://scikit-learn.ru](https://scikit-learn.ru/)
